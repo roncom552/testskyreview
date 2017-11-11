@@ -7,4 +7,5 @@ Partial Public Class Startup
     Public Sub Configuration(app As IAppBuilder)
         ConfigureAuth(app)
     End Sub
+    'test
 End Class
